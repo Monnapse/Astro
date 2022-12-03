@@ -1,1 +1,1 @@
-# [Astro] &middot;
+# Astro
