@@ -1,0 +1,23 @@
+{
+  "name": "ASTRO",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "ASTRO": {
+        "$path": "src",
+        "Packages": {
+          "$path": "Packages"
+        }
+      }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Example": {
+          "$path": "Example"
+        }
+      }
+    }
+  }
+}
